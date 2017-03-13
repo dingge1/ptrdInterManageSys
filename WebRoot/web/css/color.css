@@ -1,0 +1,77 @@
+body {
+	background-color: #F6F7F8;
+}
+
+.btn {
+    background-color: #B9CFED;
+    border: 1px solid #A1A2A3;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th {
+	background-color: #B9CFED;
+}
+
+
+/************header*************/
+.header {
+	background: -moz-linear-gradient(left, #F2F6F8, #C9D7DF);
+    background: -webkit-linear-gradient(left, #F2F6F8, #C9D7DF);
+    background: -o-linear-gradient(left, #F2F6F8, #C9D7DF);
+    background: -ms-linear-gradient(left, #F2F6F8, #C9D7DF);
+    background: linear-gradient(to right, #F2F6F8, #C9D7DF);
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .nav-tabs > li > a:hover {
+    background-color: #F6F7F8;
+    border: 1px solid #85A1CD;
+    border-bottom-color: #F6F7F8;
+}
+
+.nav-tabs > li > a {
+    margin-right: -1px;
+    border: 1px solid #85A1CD; 
+    background-color: #ACC9E9;}
+
+h2 {
+	color: #76777A;
+}
+
+/************main-left*************/
+.main-left {
+    border-right: 4px solid #85A1CD;
+}
+
+.panel-default > .panel-heading {
+    color: #333333;
+    background-color: #B9CFED;
+    border-color: #85A1CD;
+}
+
+.panel-heading {
+    border-bottom: 1px solid #85A1CD;
+}
+
+.panel {
+    background-color: #ffffff;
+    border: 1px solid #85A1CD;
+}
+
+/************main-right*************/
+.main-right {
+    border-left: 4px solid #85A1CD;
+}
+
+.breadcrumb {
+    background-color: #E1EAF7;
+}
+
+.wrapper {
+    background-color: #fff;
+}
+
+
+
+
+
+
+

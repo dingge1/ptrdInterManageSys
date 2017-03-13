@@ -1,0 +1,851 @@
+/**************systemCodeSet(编码设置)***************/
+.system-code {
+	float: left;
+	width: 374px;
+	margin-right: 20px; 
+}
+
+.code-set {
+	float: left;
+	width: 500px;
+}
+
+.system-code > .panel, .code-set > .panel {
+	height: 650px;
+}
+
+.body-padding > .row {
+	margin-bottom: 5px;
+}
+
+.body-padding > .radio-section > .row > label {
+	margin-right: 20px;
+}
+
+.checkbox-section {
+	margin-top: 40px;
+}
+
+.button-section {
+	margin-top: 20px;
+}
+
+.table-row {
+	margin-top: 40px;
+}
+
+.set-code-table {
+	width: 450px;
+	margin-top: 20px;
+}
+
+.set-code-table > tbody > tr > th.code-big-width {
+	width: 60px;
+}
+
+.set-code-table > tbody > tr > th.code-small-width {
+	width: 20px;
+}
+
+.set-code-table > tbody > tr > td {
+	text-align: center;
+}
+
+.set-code-table > tbody > tr > td > .form-control {
+	width: 60px;
+}
+
+#index {
+	width: 40px
+}
+
+input#tempName {
+	width: 90px;
+}
+
+input#tempRmk {
+	width: 180px;
+}
+
+#tempLength {
+	width: 40px;
+}
+
+
+/**************ClassificationCodeSet(包装材料分类)***************/
+.sortcode-row {
+	padding: 8px 30px;
+	background-color: #F6F7F8;
+}
+
+.btn-add {
+	float: right;
+	color: black;
+}
+
+.btn-add > input {
+	width: 100px;
+}
+
+.btn-img {
+	height: 18px;
+	margin: 4px 4px;
+	cursor: pointer;
+}
+
+/**************ProductSameName(同名类别)***************/
+.name-row > .form-control{
+	width: 170px;
+}
+
+.same-name-table {
+	height: 170px;
+	overflow: auto;
+}
+
+.dropdown-toggle {
+	position: relative;
+	top: 5px;
+}
+
+.edit-input{
+	width: 100px;
+	padding: 0px;
+}
+
+.button-row {
+	padding-right: 20px;
+}
+
+.order-btn {
+	color: #6AA4B3;
+	cursor: pointer;
+	position: relative;
+	top: 2px;
+}
+
+.order-btn:hover {
+	color: #355158;
+}
+
+.file-btn {
+	color: #337cbb;
+	cursor: pointer;
+}
+
+.table-page-left, .table-page-right {
+	float: left;
+	display: inline-block;
+}
+
+.table-page-left {
+	width: 40%;
+	line-height: 30px;
+}
+
+.table-page-right {
+	width: 60%;
+}
+
+.float-right {
+	float: right;
+}
+
+.modal-productSameName {
+	width: 800px;
+}
+
+.edit-table {
+	position: relative;
+	bottom: 1px;
+}
+
+.edit-table > tbody > tr > td {
+	text-align: left;
+}
+
+.edit-table > tbody > tr > td > input{
+	width: 100%;	
+}
+
+.edit-table > tbody > tr > td > input.w60{
+	width: 60px;	
+}
+
+ul.tablist {
+	position: relative;
+	width: 768px;
+	padding-left: 0px;
+}
+
+/**************RawMaterialCode(原辅料编码)***************/
+.rawMaterial-row {
+	margin-bottom: 10px;
+}
+
+.rawMaterial-row select {
+	width: 250px;
+	margin-right: 10px;
+} 
+
+.tool-select {
+	width: 250px;
+	margin-right: 10px;
+	margin-left: 7px;
+}
+
+.rawMaterial-row input {
+	width: 250px;
+	margin-right: 10px;
+}
+
+.btn-section {
+	float: right;
+	line-height: 32px;
+}
+
+.rawMaterial-table {
+	width: 830px;
+}
+
+.edit-table > tbody > tr > td > select {
+	width: 100%;
+}
+
+.edit-table > tbody > tr > td > select.w60 {
+	width: 60px;
+}
+
+.edit-table > tbody > tr > td > select.w200 {
+	width: 200px;
+}
+
+.edit-table > tbody > tr > td > input.w50{
+	width: 50px;	
+}
+
+.edit-table > tbody > tr > td > input.w100{
+	width: 100px;	
+}
+
+.edit-table > tbody > tr > td > textarea{
+	width: 90%;	
+	resize: none;
+}
+
+td.text-left {
+	text-align: left!important;
+}
+/**************PackagingMaterialCode(原辅料编码)***************/
+.pachkagingMaterial-row {
+	margin-bottom: 10px;
+	max-width: 800px;í
+}
+
+.pachkagingMaterial-row > select {
+	width: 150px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+} 
+
+.pachkagingMaterial-row > input {
+	width: 150px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+.formula-result {
+	padding: 0px 15px;
+}
+
+.formula-symbol-table {
+	width: auto;
+	float: left;
+}
+
+.formula-symbol-table> tbody > tr > td {
+	text-align: left;
+}
+
+.formula-symbol-table> tbody > tr:hover {
+	background-color: white;
+}
+
+.formula-btn {
+	margin-right: 20px;
+}
+
+.formula-btn:hover {
+	text-decoration: none;
+}
+
+.formula-table > tbody > tr > td > textarea{
+	width: 100%;
+	resize: none;
+}
+
+.formula-result-table {
+	float: left;
+}
+
+.formula-result-right {
+	float: left;
+}
+
+.formula-result-table > tbody > tr{
+
+
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.formula-result-table > tbody > tr:hover{
+	background-color: white;
+}
+
+/**************PackagingMaterialCode(原辅料编码)***************/
+.edit-info-row {
+	float: left;
+	padding-left: 20px;
+}
+
+
+/**************ProductFormula(产品配方)***************/
+.tab-div {
+	border: 1px solid #ccc;
+	width: 900px;
+	padding: 20px 25px 0px 15px;
+	position: relative;
+	bottom: 1px;
+}
+
+.tab-modal-div {
+	border: 1px solid #ccc;
+	width: 868px;
+	padding: 20px 25px 0px 15px;
+	position: relative;
+	bottom: 1px;
+}
+
+.extend-table-tr {
+	display: none;
+}
+
+tr.extend-table-tr:hover {
+	background-color: white;
+}
+
+.extend-table {
+	width: 780px;
+	margin: 20px;
+}
+
+.extend-table-section {
+	float: left;
+}
+
+.modal-width-1000 {
+	width: 900px;
+}
+
+.modal-row {
+	padding: 10px 0px;
+}
+
+.formula-label {
+	position: relative;
+	bottom: 40px;
+}
+
+.formula-textarea {
+	width: 310px;
+	margin-right: 10px;
+	height: 100px;
+	border-color: #ccc;
+	border-radius: 5px;
+}
+
+.table-height {
+	height: 180px;
+	overflow: auto;
+}
+
+.photo {
+	height: 150px;
+}
+
+/**************systemCodeSet(编码设置)***************/
+.system-code {
+	float: left;
+	width: 374px;
+	margin-right: 20px; 
+}
+
+.code-set {
+	float: left;
+	width: 550px;
+}
+
+.system-code > .panel, .code-set > .panel {
+	height: 630px;
+}
+
+.body-padding > .row {
+	margin-bottom: 5px;
+}
+
+.body-padding > .radio-section > .row > label {
+	margin-right: 20px;
+}
+
+.checkbox-section {
+	margin-top: 40px;
+}
+
+.button-section {
+	margin-top: 20px;
+}
+
+.table-row {
+	margin-top: 40px;
+}
+
+.set-code-table {
+	width: 450px;
+	margin-top: 20px;
+}
+
+.set-code-table > tbody > tr > th.code-big-width {
+	width: 60px;
+}
+
+.set-code-table > tbody > tr > th.code-small-width {
+	width: 20px;
+}
+
+.set-code-table > tbody > tr > td {
+	text-align: center;
+}
+
+.set-code-table > tbody > tr > td > .form-control {
+	width: 60px;
+}
+
+
+/**************ClassificationCodeSet(包装材料分类)***************/
+.sortcode-row {
+	padding: 8px 30px;
+	background-color: #F6F7F8;
+}
+
+.btn-add {
+	float: right;
+}
+
+/**************ProductSameName(同名类别)***************/
+.name-row > .form-control{
+	width: 170px;
+}
+
+.same-name-table {
+	height: 170px;
+	overflow: auto;
+}
+
+.dropdown-toggle {
+	position: relative;
+	top: 5px;
+}
+
+.edit-input{
+	width: 100px;
+	padding: 0px;
+}
+
+.button-row {
+	padding-right: 20px;
+}
+
+.order-btn {
+	color: #6AA4B3;
+	cursor: pointer;
+	position: relative;
+	top: 2px;
+}
+
+.order-btn:hover {
+	color: #355158;
+}
+
+.file-btn {
+	color: #337cbb;
+	cursor: pointer;
+}
+
+.table-page-left, .table-page-right {
+	float: left;
+	display: inline-block;
+}
+
+.table-page-left {
+	width: 40%;
+	line-height: 30px;
+}
+
+.table-page-right {
+	width: 60%;
+}
+
+.float-right {
+	float: right;
+}
+
+.modal-productSameName {
+	width: 800px;
+}
+
+.edit-table {
+	position: relative;
+	bottom: 1px;
+}
+
+.edit-table > tbody > tr > td {
+	text-align: left;
+}
+
+.edit-table > tbody > tr > td > input{
+	width: 100%;	
+}
+
+.edit-table > tbody > tr > td > input.w60{
+	width: 60px;	
+}
+
+ul.tablist {
+	position: relative;
+	width: 768px;
+	padding-left: 0px;
+}
+
+.raw-row {
+	padding: 0px 10px;
+}
+
+.raw-row > label {
+	width: 80px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.raw-row > select {
+	width: 175px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.raw-row > input {
+	width: 175px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+/**************RawMaterialCode(原辅料编码)***************/
+.rawMaterial-row {
+	margin-bottom: 10px;
+}
+
+.rawMaterial-row > select {
+	width: 250px;
+} 
+
+.rawMaterial-row > input {
+	width: 250px;
+}
+
+.btn-section {
+	float: right;
+	line-height: 32px;
+}
+
+.rawMaterial-table {
+	width: 830px;
+}
+
+.edit-table > tbody > tr > td > select {
+	width: 100%;
+}
+.edit-table > tbody > tr > td > select.w40 {
+	width: 40px;
+}
+.edit-table > tbody > tr > td > select.w60 {
+	width: 60px;
+}
+
+.edit-table > tbody > tr > td > select.w200 {
+	width: 200px;
+}
+
+.edit-table > tbody > tr > td > input.w40{
+	width: 40px;	
+}
+
+.edit-table > tbody > tr > td > input.w50{
+	width: 50px;	
+}
+
+.edit-table > tbody > tr > td > input.w100{
+	width: 100px;	
+}
+
+.edit-table > tbody > tr > td > input.w200{
+	width: 200px;	
+}
+
+.edit-table > tbody > tr > td > textarea{
+	width: 90%;	
+	resize: none;
+}
+
+/**************PackagingMaterialCode(原辅料编码)***************/
+.pachkagingMaterial-row {
+	margin-bottom: 10px;
+	max-width: 800px;í
+}
+
+.pachkagingMaterial-row select {
+	width: 150px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+} 
+
+.pachkagingMaterial-row input {
+	width: 150px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+.formula-result {
+	padding: 0px 15px;
+}
+
+.formula-symbol-table {
+	width: auto;
+	float: left;
+}
+
+.formula-symbol-table> tbody > tr > td {
+	text-align: left;
+}
+
+.formula-symbol-table> tbody > tr:hover {
+	background-color: white;
+}
+
+.formula-btn {
+	margin-right: 20px;
+}
+
+.formula-btn:hover {
+	text-decoration: none;
+}
+
+.formula-table > tbody > tr > td > textarea{
+	width: 100%;
+	resize: none;
+}
+
+.formula-result-table {
+	float: left;
+}
+
+.formula-result-right {
+	float: left;
+}
+
+.formula-result-table > tbody > tr{
+
+
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.formula-result-table > tbody > tr:hover{
+	background-color: white;
+}
+
+/**************PackagingMaterialCode(原辅料编码)***************/
+.edit-info-row {
+	float: left;
+	padding-left: 20px;
+}
+
+
+/**************ProductFormula(产品配方)***************/
+.tab-div {
+	border: 1px solid #ccc;
+	width: 900px;
+	padding: 20px 25px 0px 15px;
+	position: relative;
+	bottom: 1px;
+}
+
+.tab-modal-div {
+	border: 1px solid #ccc;
+	width: 868px;
+	padding: 20px 25px 0px 15px;
+	position: relative;
+	bottom: 1px;
+}
+
+.extend-table-tr {
+	display: none;
+}
+
+tr.extend-table-tr:hover {
+	background-color: white;
+}
+
+.extend-table {
+	width: 780px;
+	margin: 20px 20px 20px 20px;
+}
+
+.extend-table-section {
+	float: left;
+}
+
+.modal-width-1000 {
+	width: 900px;
+}
+
+.modal-row {
+	padding: 10px 0px;
+}
+
+.formula-label {
+	position: relative;
+	bottom: 40px;
+}
+
+.formula-textarea {
+	width: 310px;
+	margin-right: 10px;
+	height: 100px;
+	border-color: #ccc;
+	border-radius: 5px;
+}
+
+.table-height {
+	height: 180px;
+	overflow: auto;
+}
+
+.photo {
+	height: 150px;
+}
+
+.modal-table {
+	max-height: 500px;
+}
+
+select.history-compare-select {
+	width: 500px;
+	margin-right: 20px;
+}
+
+#history-compare .row {
+	padding-left: 15px;
+}
+
+.extend-table-tr-sm {
+	padding-left: 15px;
+}
+
+.extend-table-sm {
+	width: 730px;
+	margin: 20px;
+}
+
+.modal-body .row {
+	padding-left: 15px;
+}
+
+.explain-textarea {
+	width: 680px;
+	margin-left: 20px;
+	height: 80px;
+}
+
+.explain-span {
+	position: relative;
+	bottom: 35px;
+}
+
+
+/**************SystemSet(系统分级设置)***************/
+.system-panel {
+	width: 1000px;
+}
+
+.option-object .panel {
+	width: 300px;
+	float: left;
+	border-right: 1px solid #95B8E7;
+}
+
+.panel-sm {
+	box-shadow: none;
+}
+
+.panel-sm .panel-heading {
+	background-color: #F2F2F2;
+	border-bottom-color: #ccc; 
+}
+
+.panel-sm .panel-body {
+	border: none;
+}
+
+.easyui-system-panel {
+	height: 500px;
+	border: none!important;
+}
+
+.option-target .panel-sm {
+	width: 698px;
+}
+
+.option-target {
+	float: left;
+}
+
+.option-target .panel-sm .panel-body {
+	padding: 10px;
+}
+
+.target-body div {
+	display: none;
+}
+
+.target-body .btn {
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

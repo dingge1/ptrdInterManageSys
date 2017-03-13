@@ -1,0 +1,312 @@
+ul.sub-tabs > li.subs-li {
+	margin-left: 30px;
+}
+.sub-add {
+	float: right;
+	margin-right: 10px;
+
+
+}
+.show-span{
+	float: right;
+	margin-right: 20px;
+	padding-right: 0px;
+
+}
+.department-info{
+	max-height:300px;
+	width:700px;
+}
+#print{
+	float: right;
+}
+#subtabsx{
+	max-height: 200px;
+	overflow:auto;
+	background-color: #fafbfb;
+
+}
+#subtabsxx{
+	max-height: 260px;
+	overflow:auto;
+	background-color: #fafbfb;
+
+}
+.department-edit{
+	display: none;
+}
+.row-section-btn{
+	margin-top:10px;
+	margin-right: 40px;
+}
+.row-section-btn > .btn {
+	float: right;
+	margin-left: 0px;
+	margin-right:20px; 
+	right:20px;
+} 
+.row-section-btnn{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.row-section-btnn > .btn{
+
+}
+#addworker .nav-tabs{
+	position: relative;
+	width:auto;
+	padding-left: 10px;
+}
+.fieldset-edit{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top:10px; 
+}
+
+.modal-body{
+	padding:0px;
+}
+#basic-edit{
+	display:block;
+	padding: 10px;
+}
+#edit-else{
+padding: 10px;
+}
+#diploma-edit{
+	padding:10px;
+	display: none;
+}
+#formword{
+	padding: 20px;
+}
+#wordx{
+	margin-top: 0px;
+}
+#worker-table{
+	max-height: 424px;
+}
+.btn-addx{
+	float:left;
+	color: #B11717;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 2px;
+	margin-bottom: 5px;
+}
+.row-section-btn-x{
+	margin-top: 0px;
+}
+#usergroup{
+	float: right;
+	right:0;
+	margin-right: 0;
+}
+#usergroupx{
+	max-height: 300px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#posx{
+	width:70px;
+}
+#posx2{
+	width:90px;
+}
+#tablepos{
+	
+}
+#mark{
+	width:80px;
+}
+#storage{
+	width:20px;
+}
+.row-section-btna{
+	margin-top: 0px;
+	margin-right: 30px;
+}
+#departedit input[type="text"],select{
+	width: 100%;
+
+}
+#deptedit{
+	margin: 10px;
+}
+#pp,#tt,#ee{
+	margin-right: 5px;
+}
+#usertree{
+	width:400%;
+}
+#userGroupId,#deptxtree{
+	width:20%;
+}
+#userGroup,#deptxxtree{
+	width:200px;
+}
+#userxxxx{
+	margin-right:20px;
+}
+#management > ul{
+	padding-left: 0;
+	position:relative;
+}
+#management > ul > li{
+	width:50px;
+	text-align: center;
+	font-size: 12px;
+
+}
+#management > ul > li > a {
+	border-radius: 0px;
+	padding: 0px;
+}
+#select-x > select{
+	background-color: white;
+	border: 1px solid #95B8E7;
+	height: 23px;
+	font-size: 13px;
+}
+#select-x > button{
+	height: 23px;
+	font-size: 13px;
+}
+#m1,#select-x{
+	margin: 10px;
+}
+#m2{
+	margin: 5px;
+	width:890px;
+}
+#m3{
+	margin-top:10px;
+
+
+}
+#m3 >button {
+	height: 23px;
+	font-size: 13px;
+	width: 100px;
+}
+#view1{
+	max-height: 500px;
+	overflow:auto;
+	background-color: #fafbfb;
+	width: 330px;
+}
+#view2{
+	max-height: 500px;
+	overflow:auto;
+	background-color: #fafbfb;
+	width: 200px;
+
+}
+#treeset2{
+	max-height: 500px;
+	overflow:auto;
+	padding:5px;
+}
+#treeset{
+	max-height: 500px;
+	overflow:auto;
+	padding:5px;
+
+}
+
+#viewtable{
+	position: absolute;
+	width: 570px;
+	overflow-y:auto;
+	overflow-x:hidden;
+
+
+}
+#viewtable3{
+	position: absolute;
+	width: 420px;
+	margin-left: 20.5em;
+	overflow-y:auto;
+	overflow-x:hidden;
+
+
+}
+#viewtable2{
+	position: absolute;
+	width: 500px;
+	overflow-y:auto;
+	overflow-x:hidden;
+
+}
+#viewtable4{
+	position: absolute;
+	width: 300px;
+	overflow-y:auto;
+	overflow-x:hidden;
+	margin-left: -1em;
+
+}
+#viewtable4 > table > thead > tr > th{
+	background-color: #e2e2e2;
+	border: 0px;
+}
+#viewtable2 > table > thead > tr > th{
+	background-color: #e2e2e2;
+	border: 0px;
+}
+.userright{
+	width: 900px;
+}
+.user-right{
+	width: 1020px;
+}
+.xbutton{
+	width: 80px;
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+	border-radius: 4px;
+	margin: 3px;
+	color: #337cbb;
+}
+#selecttable{
+	width: 57%;
+	margin-bottom: 10px;
+	background-color: #eaf2ff;
+}
+.centeruser{
+		background-color: #eaf2ff;
+		width: 950px !important;
+
+}
+.usercaption{
+	margin-right: 20px;
+	margin-left: 40px;
+}
+#okbtn{
+	margin-left: 25px;
+}
+#urtree{
+	width: 300px;
+}
+#sr{
+	width: 800px;
+}
+.workerview{
+	text-align: left !important;
+	padding-left: 1.5em !important;
+}
+a {
+text-decoration: none !important;
+}
+.set-row{
+	max-height: 450px;
+}
+#management{
+	position: relative;
+}
+.row-section{
+	max-height:400px ! important;
+	overflow-y:auto ! important;
+}
